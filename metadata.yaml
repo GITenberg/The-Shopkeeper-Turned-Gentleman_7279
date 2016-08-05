@@ -1,0 +1,44 @@
+_repo: The-Shopkeeper-Turned-Gentleman_7279
+_version: 0.0.1
+alternative_title: Le Bourgeois Gentilhomme. English
+contributor:
+  translator:
+    agent_name: Wall, Charles Heron
+    aliases:
+    - Heron-Wall, C. (Charles)
+    - Wall, C. H. (Charles Heron)
+    gutenberg_agent_id: '2877'
+    url: http://www.gutenberg.org/2009/agents/2877
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Poquelin, Jean-Baptiste
+    - Moliere
+    - Molière, Jean Baptiste Poquelin de
+    - Poquelin de Molière, Jean Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PQ'
+- !lcsh 'Middle class -- France -- Drama'
+- !lcsh 'France -- Social life and customs -- 17th century -- Drama'
+- !lcsh 'French drama'
+- GITenberg
+title: The Shopkeeper Turned Gentleman
+url: http://www.gutenberg.org/ebooks/7279
